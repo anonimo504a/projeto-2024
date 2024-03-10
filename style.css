@@ -1,4 +1,9 @@
 header {
+    *{
+    margin: 0;
+    padding: 0;
+}
+
     background-color: #CBF3B2;
     color: 675821;
     display: flex;
@@ -15,5 +20,9 @@ header {
     font-size: 50px;
     text-align: center;
     }
+    .escola{
+    background-image: linear-gradient(#70eea9c2, #cae9e7);
+}
+
 
 
