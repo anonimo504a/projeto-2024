@@ -1,4 +1,12 @@
 header {
     background-color: #CBF3B2;
     color: 675821;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+.colegio-estadual{
+    width: 5%;
+}
 }
